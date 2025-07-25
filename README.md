@@ -23,7 +23,10 @@
   
 ![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=Charishma24003&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=fff&disable_animations=true)
 
-![WakaTime stats](https://git-stats-plum.vercel.app/api/wakatime?username=Charishma24003&layout=compact&theme=transparent&disable_animations=true)
+## ⌛ WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
