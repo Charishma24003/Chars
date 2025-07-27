@@ -63,7 +63,7 @@
         <a href="https://expressjs.com/en/starter/installing.html" title="Express"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/></a>&emsp;
         <a href="https://www.php.net/docs.php" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/></a>&emsp;
         <a href="https://learn.microsoft.com/en-us/dotnet/" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40"/></a>&emsp;
-        <a href="https://firebase.google.com/docs" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/></a>&emsp;
+        <!--<a href="https://firebase.google.com/docs" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/></a>&emsp;-->
         <a href="https://developers.google.com" title="Google API"><img src="https://skillicons.dev/icons?i=googlecloud" alt="Google API" width="40" height="40"/></a>&emsp;
         <a href="https://next-auth.js.org/getting-started/introduction" title="Auth.js"><img src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/nextauth.svg" alt="Auth.js" width="40" height="40"/></a>&emsp;
     </div>
@@ -75,14 +75,14 @@
     <div>
         <a href="https://www.mongodb.com/docs/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a>&emsp;
         <a href="https://dev.mysql.com/doc/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a>&emsp;
-        <a href="https://firebase.google.com/docs/firestore" title="Firebase Firestore"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase Firestore" width="40" height="40"/></a>&emsp;
+      <!--  <a href="https://firebase.google.com/docs/firestore" title="Firebase Firestore"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase Firestore" width="40" height="40"/></a>&emsp;
         <a href="https://www.postgresql.org/docs/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/></a>&emsp;
-        <a href="https://www.prisma.io/docs/" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40"/></a>&emsp;
+        <a href="https://www.prisma.io/docs/" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40"/></a>&emsp;-->
     </div>
 </div>
 <br/>
 
-<div align="center">
+<!--<div align="center">
 <h3>State Management & Utilities</h3>
     <div>
         <a href="https://redux.js.org/introduction/getting-started" title="Redux"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40"/></a>&emsp;
@@ -101,20 +101,20 @@
         <a href="https://vercel.com/docs" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/></a>&emsp;
     </div>
 </div>
-<br/>
+<br/>-->
 
 <div align="center">
 <h3>Tools & Software</h3>
     <div>
-        <a href="https://docs.npmjs.com/" title="NPM"><img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="40" height="40"/></a>&emsp;
-        <a href="https://bun.sh/" title="Bun"><img src="https://skillicons.dev/icons?i=bun" alt="Bun" width="40" height="40"/></a>&emsp;
+       <!-- <a href="https://docs.npmjs.com/" title="NPM"><img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="40" height="40"/></a>&emsp;
+        <a href="https://bun.sh/" title="Bun"><img src="https://skillicons.dev/icons?i=bun" alt="Bun" width="40" height="40"/></a>&emsp;-->
         <a href="https://git-scm.com/docs" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a>&emsp;
         <a href="https://code.visualstudio.com/docs" title="VScode"><img src="https://skillicons.dev/icons?i=vscode" alt="VScode" width="40" height="40"/></a>&emsp;
         <a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="40" height="40"/></a>&emsp;
         <a href="https://developer.android.com/studio" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40"/></a>&emsp;
         <a href="https://www.figma.com/support/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/></a>&emsp;
-        <a href="https://vitejs.dev/guide/" title="ViteJS"><img src="https://skillicons.dev/icons?i=vite" alt="ViteJS" width="40" height="40"/></a>&emsp;
-        <a href="https://socket.io/docs/v4/" title="SocketIO"><img src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/socketio.svg" alt="SocketIO" width="40" height="40"/></a>&emsp;
+       <!-- <a href="https://vitejs.dev/guide/" title="ViteJS"><img src="https://skillicons.dev/icons?i=vite" alt="ViteJS" width="40" height="40"/></a>&emsp;
+        <a href="https://socket.io/docs/v4/" title="SocketIO"><img src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/socketio.svg" alt="SocketIO" width="40" height="40"/></a>&emsp;-->
     </div>
 </div>
 <br/>
