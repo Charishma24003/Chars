@@ -4,7 +4,6 @@
  
    ![](https://komarev.com/ghpvc/?username=Charishma24003&label=PROFILE+VIEWS&style=for-the-badge)
    <a href="https://www.linkedin.com/in/charishma-297216311/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"></a>
-    
     <a href="https://twitter.com/Charishma243" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Twitter&color=000000&style=for-the-badge&logo=x&logoColor=fff" alt="Twitter"></a>
     
 </div>
